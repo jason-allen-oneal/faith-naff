@@ -1,7 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /admin
+Disallow: /api
 
-# Sitemap location
-Sitemap: https://faithforcaldwell.com/sitemap.xml
-
-# Optional: Disallow admin or private areas if any exist
+Sitemap: https://faithforcaldwell.com/sitemap. xml
