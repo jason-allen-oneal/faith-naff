@@ -2,6 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom';
+import './index.css';
 import App from './App';
 import LegalPage from './components/LegalPage';
 import ScrollToHash from './components/ScrollToHash';
